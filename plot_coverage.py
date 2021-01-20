@@ -4,8 +4,8 @@
 import argparse
 import os
 import re
-import random
-from pprint import pprint
+#import random
+#from pprint import pprint
 from collections import OrderedDict
 
 import matplotlib.pyplot as plt
